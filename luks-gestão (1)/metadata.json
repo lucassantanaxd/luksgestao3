@@ -1,0 +1,7 @@
+
+{
+  "name": "LUKS GESTÃO",
+  "description": "Uma aplicação web para LUKS GESTÃO, focada em gerenciar contas (ex: TikTok), permitindo upload de fotos, classificação, acompanhamento de monetização e atribuição de responsáveis. Permite adicionar, editar, visualizar e filtrar contas por status, monetização e equipe.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
